@@ -1,6 +1,6 @@
 # Hi, I'm Mateusz Kuprewicz 👋
 
-🎓 **Computer Science Student** @ Warsaw University of Technology  
+🎓 **Computer Science Student** at Warsaw University of Technology  
 💡 Driven by solving complex logical problems and designing robust software systems.
 
 ---
